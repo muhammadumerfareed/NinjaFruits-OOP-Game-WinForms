@@ -1,0 +1,593 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\gameobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\ningafruits\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\ningafruits\\introform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\introform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\introform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\introform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\splasheffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\splasheffect.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\soundmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\smallfruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\smallfruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\largefruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\largefruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\icollidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\icollidable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\fruit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\gameoverform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\ningafruits\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{295E01FA-24EA-4241-82D1-DDD7E356D355}|NingaFruits\\NingaFruits.csproj|D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\ningafruits\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{295E01FA-24EA-4241-82D1-DDD7E356D355}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\bomb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\watermelon_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\watermelon_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\watermelon_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\watermelon_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\bomb_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\bomb_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\bomb.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\bomb.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\coconut_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\coconut_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\banana_half_2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\banana_half_2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\banana_half_2_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\banana_half_2_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\banana_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\banana_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\banana_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\banana_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\banana.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\banana.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\apple_half_2_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\apple_half_2_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\apple_half_2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\apple_half_2.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\apple_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\apple_half_1.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\apple.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\apple.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resources\\apple_half_1_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resources\\apple_half_1_small.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resource1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|d:\\study\\semester2\\oop\\game\\ningafruits\\ningafruits\\resource1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{5D39D2C5-CDB8-07CC-C7BE-55C3D312BAEB}|NingaFruits\\NingaFruits.csproj|solutionrelative:ningafruits\\resource1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Sword.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Sword.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Sword.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Sword.cs",
+              "RelativeToolTip": "NingaFruits\\Sword.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:05:26.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameObject.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameObject.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\GameObject.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameObject.cs",
+              "RelativeToolTip": "NingaFruits\\GameObject.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:03:01.822Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Player.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Player.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Player.cs",
+              "RelativeToolTip": "NingaFruits\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:37:47.904Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "GameOverForm.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\GameOverForm.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameOverForm.cs [Design]",
+              "RelativeToolTip": "NingaFruits\\GameOverForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T03:05:30.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IntroForm.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\IntroForm.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\IntroForm.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\IntroForm.cs [Design]",
+              "RelativeToolTip": "NingaFruits\\IntroForm.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T03:05:59.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IntroForm.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\IntroForm.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\IntroForm.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\IntroForm.cs",
+              "RelativeToolTip": "NingaFruits\\IntroForm.cs",
+              "ViewState": "AgIAAJsAAAAAAAAAAAAMwKgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T03:06:20.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LargeFruit.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\LargeFruit.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\LargeFruit.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\LargeFruit.cs",
+              "RelativeToolTip": "NingaFruits\\LargeFruit.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:37:45.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ICollidable.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\ICollidable.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\ICollidable.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\ICollidable.cs",
+              "RelativeToolTip": "NingaFruits\\ICollidable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:04:12.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SoundManager.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\SoundManager.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\SoundManager.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\SoundManager.cs",
+              "RelativeToolTip": "NingaFruits\\SoundManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:05:04.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SplashEffect.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\SplashEffect.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\SplashEffect.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\SplashEffect.cs",
+              "RelativeToolTip": "NingaFruits\\SplashEffect.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAkwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T08:05:08.41Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Program.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Program.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Program.cs",
+              "RelativeToolTip": "NingaFruits\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:37:43.676Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SmallFruit.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\SmallFruit.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\SmallFruit.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\SmallFruit.cs",
+              "RelativeToolTip": "NingaFruits\\SmallFruit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:03:19.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameManager.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\GameManager.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameManager.cs",
+              "RelativeToolTip": "NingaFruits\\GameManager.cs",
+              "ViewState": "AgIAAAcCAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:02:54.368Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Fruit.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Fruit.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Fruit.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Fruit.cs",
+              "RelativeToolTip": "NingaFruits\\Fruit.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAkwDoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:02:48.217Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "GameOverForm.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameOverForm.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\GameOverForm.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\GameOverForm.cs",
+              "RelativeToolTip": "NingaFruits\\GameOverForm.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAQwDQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T03:09:31.234Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Form1.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Form1.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Form1.cs [Design]",
+              "RelativeToolTip": "NingaFruits\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:02:24.438Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Form1.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Form1.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Form1.cs",
+              "RelativeToolTip": "NingaFruits\\Form1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAiwBEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-11T03:08:20.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Bomb.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Bomb.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Bomb.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Bomb.cs",
+              "RelativeToolTip": "NingaFruits\\Bomb.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T18:02:13.776Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "watermelon_small.png - PNG [64x59, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\watermelon_small.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\watermelon_small.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\watermelon_small.png - PNG [64x59, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\watermelon_small.png - PNG [64x59, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:31.446Z",
+              "EditorCaption": " - PNG [64x59, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bomb.png - PNG [611x715, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\bomb.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\bomb.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\bomb.png - PNG [611x715, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\bomb.png - PNG [611x715, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:25.687Z",
+              "EditorCaption": " - PNG [611x715, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Form1.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Form1.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Form1.cs [Design]",
+              "RelativeToolTip": "NingaFruits\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T15:28:09.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "watermelon_half_1.png - PNG [807x746, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\watermelon_half_1.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\watermelon_half_1.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\watermelon_half_1.png - PNG [807x746, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\watermelon_half_1.png - PNG [807x746, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:29.337Z",
+              "EditorCaption": " - PNG [807x746, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "bomb_small.png - PNG [64x75, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\bomb_small.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\bomb_small.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\bomb_small.png - PNG [64x75, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\bomb_small.png - PNG [64x75, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:24.679Z",
+              "EditorCaption": " - PNG [64x75, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "coconut_half_1.png - PNG [637x567, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\coconut_half_1.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\coconut_half_1.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\coconut_half_1.png - PNG [637x567, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\coconut_half_1.png - PNG [637x567, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:23.642Z",
+              "EditorCaption": " - PNG [637x567, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "banana_small.png - PNG [64x68, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_small.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\banana_small.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_small.png - PNG [64x68, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\banana_small.png - PNG [64x68, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:18.947Z",
+              "EditorCaption": " - PNG [64x68, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "banana_half_2_small.png - PNG [64x68, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_half_2_small.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\banana_half_2_small.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_half_2_small.png - PNG [64x68, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\banana_half_2_small.png - PNG [64x68, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:12.657Z",
+              "EditorCaption": " - PNG [64x68, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "banana_half_2.png - PNG [637x673, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_half_2.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\banana_half_2.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_half_2.png - PNG [637x673, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\banana_half_2.png - PNG [637x673, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:11.572Z",
+              "EditorCaption": " - PNG [637x673, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "banana_half_1.png - PNG [637x673, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_half_1.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\banana_half_1.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana_half_1.png - PNG [637x673, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\banana_half_1.png - PNG [637x673, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:10.336Z",
+              "EditorCaption": " - PNG [637x673, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "banana.png - PNG [637x673, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\banana.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\banana.png - PNG [637x673, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\banana.png - PNG [637x673, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:09.237Z",
+              "EditorCaption": " - PNG [637x673, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "apple_half_2_small.png - PNG [64x70, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_2_small.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\apple_half_2_small.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_2_small.png - PNG [64x70, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\apple_half_2_small.png - PNG [64x70, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:06.461Z",
+              "EditorCaption": " - PNG [64x70, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "apple_half_2.png - PNG [551x600, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_2.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\apple_half_2.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_2.png - PNG [551x600, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\apple_half_2.png - PNG [551x600, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:04.116Z",
+              "EditorCaption": " - PNG [551x600, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "apple_half_1.png - PNG [551x600, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_1.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\apple_half_1.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_1.png - PNG [551x600, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\apple_half_1.png - PNG [551x600, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:02.66Z",
+              "EditorCaption": " - PNG [551x600, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "apple.png - PNG [551x600, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\apple.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple.png - PNG [551x600, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\apple.png - PNG [551x600, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:38:01.134Z",
+              "EditorCaption": " - PNG [551x600, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "apple_half_1_small.png - PNG [64x70, 32 bit, PNG]",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_1_small.png",
+              "RelativeDocumentMoniker": "NingaFruits\\Resources\\apple_half_1_small.png",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resources\\apple_half_1_small.png - PNG [64x70, 32 bit, PNG]",
+              "RelativeToolTip": "NingaFruits\\Resources\\apple_half_1_small.png - PNG [64x70, 32 bit, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2026-06-10T16:37:55.316Z",
+              "EditorCaption": " - PNG [64x70, 32 bit, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Resource1.Designer.cs",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resource1.Designer.cs",
+              "RelativeDocumentMoniker": "NingaFruits\\Resource1.Designer.cs",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resource1.Designer.cs",
+              "RelativeToolTip": "NingaFruits\\Resource1.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-06-10T16:37:42.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Resource1.resx",
+              "DocumentMoniker": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resource1.resx",
+              "RelativeDocumentMoniker": "NingaFruits\\Resource1.resx",
+              "ToolTip": "D:\\Study\\Semester2\\OOP\\Game\\NingaFruits\\NingaFruits\\Resource1.resx",
+              "RelativeToolTip": "NingaFruits\\Resource1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-06-10T15:42:26.24Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
